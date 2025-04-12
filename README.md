@@ -15,7 +15,7 @@ This is a web-based movie ticket booking portal built using **React.js** that al
 - On success → Navigates to **Booking** screen
 - On failure → Displays error **"Wrong Credentials"** & resets input fields
 
-  ![login-screen](https://github.com/apurv-sgh/movie-tickets-booking/blob/main/public/login-screen.png)
+  ![login-screen](https://github.com/apurv-sgh/Neobuild-movie-ticket-booking/blob/main/public/login-screen.png))
 
 ### 2. **Booking Screen**
 - Displays a list of **movie cards** with details:
@@ -26,7 +26,7 @@ This is a web-based movie ticket booking portal built using **React.js** that al
 - Implements **real-time search filtering** for movies
 - Clicking a movie routes the user to the **Selection Screen** with movie data
 
-  ![booking-screen](https://github.com/apurv-sgh/movie-tickets-booking/blob/main/public/booking-screen.png)
+  ![booking-screen](https://github.com/apurv-sgh/Neobuild-movie-ticket-booking/blob/main/public/booking-screen.png)
 
 ### 3. **Selection Screen**
 - User provides:
@@ -38,7 +38,7 @@ This is a web-based movie ticket booking portal built using **React.js** that al
   - Displays **loading animation** & toast message **"Tickets Booked"** for 5 seconds
   - Routes to **Activity Screen** to show updated bookings
  
-    ![selection-screen](https://github.com/apurv-sgh/movie-tickets-booking/blob/main/public/selection-screen.png)
+    ![selection-screen](https://github.com/apurv-sgh/Neobuild-movie-ticket-booking/blob/main/public/selection-screen.png)
 
 ### 4. **Activity Screen**
 - Displays **all booked tickets** with details:
@@ -48,7 +48,7 @@ This is a web-based movie ticket booking portal built using **React.js** that al
   - Date
   - **Total Price = $25 × Ticket Count**
  
-    ![activity-screen](https://github.com/apurv-sgh/movie-tickets-booking/blob/main/public/activity-screen.png)
+    ![activity-screen](https://github.com/apurv-sgh/Neobuild-movie-ticket-booking/blob/main/public/activity-screen.png)
 
 
 
